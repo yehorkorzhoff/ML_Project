@@ -47,17 +47,17 @@ preprocessing_utils.py - functions that simplify the process of forming datasets
 
 **events_train.csv** - data about the students actions with steps
 
-1. step_id - step id
-2. user_id - anonymized user id
-3. timestamp - event time in unix date format
-4. action - event, possible values:
- discovered - user went to the step
- viewed - step preview,
- started_attempt - start attempting to solve a step passed - successful solution of the practice step
+1. **step_id** - step id
+2. **user_id** - anonymized user id
+3. **timestamp** - event time in unix date format
+4. **action** - event, possible values:
+ _discovered_ - user went to the step
+ _viewed_ - step preview
+ _started_attempt_ - start attempting to solve a step _passed_ - successful solution of the practice step
  
 **submissions_train.csv** - data on time and statuses of submissions to practical tasks
 
-1. step_id - step id
-2. timestamp - time of solution sending in unix date format
-3. submission_status - decision status
-4. user_id - anonymized user id
+1. **step_id** - step id
+2. **timestamp** - time of solution sending in unix date format
+3. **submission_status** - decision status
+4. **user_id** - anonymized user id
