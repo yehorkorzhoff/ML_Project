@@ -1,6 +1,5 @@
-# ML_Project
-About Solution to Stepic "Introduction to Data Science and Machine Learning" course competition realated to predicting user dropout analyzing it activity during the first two days.
-Project Description
+# Project Description
+
 This project is the final competition of the course Introduction to Data Science and Machine Learning on the edu platform named Stepic. It is known, due to assignment, that madel performance will be estimated by ROC_AUC sore metric .
 As part of this competition, 2 solutions have been developed so far, which are located in the notebooks_(lang) folders:
 
