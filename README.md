@@ -4,9 +4,11 @@ This project is the final competition of the course Introduction to Data Science
 As part of this competition, 2 solutions have been developed so far, which are located in the notebooks_(lang) folders:
 
  1. _baseline_with_full_data_processing__ - baseline with features that were created during the course. Also you can find step-by-step preprocessing of the data with feature analysis in the notebook. Comparative characteristics and general analytics are also provided to select the best model.
+
 **ROC_AUC score of this model = 0.804.**
 
  2. _best_performance_with_new_features_ - solution that expands the features set from baseline. Added a score of each step difficulty according to different criteria. Also, for the sake of brevity, these notebooks include packages with functions that automatically (according to the algorithm from the baseline) preprocess the data and train the model.
+
 **ROC_AUC score of this model = 0.822**
 
 # The essence of the task
