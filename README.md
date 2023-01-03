@@ -34,7 +34,7 @@ best_performance_with_new_features[ENG].ipynb - solution that extends the set of
 *baseline_with_full_data_processing[RUS]. - detailed analysis
 best_performance_with_new_features[RUS].ipynb - solution that extends the set of traits from the baseline. Added an evaluation of the difficulty of each step by different criteria.
 
- 4.** reports** - directory with prediction reports of probability of assigning user to dropout class
+ 4. **reports** - directory with prediction reports of probability of assigning user to dropout class
 
 reports.zip - archive containing such predictions. For each such prediction, the name of the file specifies which model predicted it
 
@@ -44,7 +44,8 @@ model_fit_utils.py - functions that simplify the process of training models. The
 preprocessing_utils.py - functions that simplify the process of forming datasets and creating the necessary features. There is also a function that returns X and y from events_data and submission_data gave as parameters
 
 # Data description
-events_train.csv - data about the students actions with steps
+
+**events_train.csv** - data about the students actions with steps
 
 1. step_id - step id
 2. user_id - anonymized user id
