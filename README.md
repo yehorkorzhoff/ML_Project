@@ -52,9 +52,11 @@ preprocessing_utils.py - functions that simplify the process of forming datasets
 3. **timestamp** - event time in unix date format
 4. **action** - event, possible values:
 
-  _discovered_ - user went to the step
-  _viewed_ - step preview
-  _started_attempt_ - start attempting to solve a step _passed_ - successful solution of the practice step
+   _discovered_ - user went to the step
+   
+   _viewed_ - step preview
+   
+   _started_attempt_ - start attempting to solve a step _passed_ - successful solution of the practice step
  
 **submissions_train.csv** - data on time and statuses of submissions to practical tasks
 
