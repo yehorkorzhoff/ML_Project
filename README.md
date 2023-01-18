@@ -1,6 +1,6 @@
 # Project Description
 This project is the final competition of the course [Introduction to Data Science and Machine Learning](https://stepik.org/course/4852) on the edu platform named Stepic.
-It is known, due to assignment, that madel performance will be estimated by ROC_AUC sore metric .  
+It is known, due to assignment, that model performance will be estimated by ROC_AUC score metric .  
 As part of this competition, 2 solutions have been developed so far, which are located in the *notebooks_(lang)* folders:  
 
 1. *baseline_with_full_data_processing* - baseline with features that were created during the course. 
